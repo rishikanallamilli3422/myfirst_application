@@ -13,6 +13,8 @@ step 1: To build a docker image we create a docker file.
 step 2: Building the docker image.  
         run the commands  
         docker build -t rishika .(-t for tag name "rishika")  
+ step 3:Docker run  
+ step 4:docker push <user_name> /<image_name>  
         
 step 1: Create an ec2 instance with free tier eligible preferably ubuntu.
 step 2: clone this repo to local 
